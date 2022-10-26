@@ -1,7 +1,7 @@
 ![dot-NET-Standard-Logo-Rectangle](https://user-images.githubusercontent.com/45498591/197885267-1f64b1ff-1ff4-4c4a-9351-007ab22471b8.png)
 
 <h1 align="center">Hi 👋, I'm Zanyar Jalal</h1>
-<h3 align="center">Senior .NET developer fromIraq in Sulaymaniyah</h3>
+<h3 align="center">Senior .NET developer from Iraq in Sulaymaniyah</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zanyar3&label=Profile%20views&color=0e75b6&style=flat" alt="zanyar3" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zanyar3" alt="zanyar3" /></a> </p>
 
