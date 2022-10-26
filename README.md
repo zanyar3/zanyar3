@@ -8,6 +8,7 @@
 <br />
 
 <img align="right" alt="programmer" width="250" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" />
+
 - 🌱 I’m currently learning **.NET MAUI**
 
 - 💬 Ask me about **C#, .NET and SignalR**
