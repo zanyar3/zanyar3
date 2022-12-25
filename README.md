@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **.NET MAUI**
 
+- 👨‍💻 I’m currently working on SAP integration
+
 - 💬 Ask me about **C#, .NET and SignalR**
 
 - 📫 How to reach me **[zanyar_krd](https://twitter.com/zanyar_krd) on Twitter**
