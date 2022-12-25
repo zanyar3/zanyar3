@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Zanyar Jalal</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=5A3EE0&width=435&lines=Senior+.NET+developer+from+Iraq+in+Sulaymaniyah" alt="Typing SVG" /></a></h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zanyar3&label=Profile%20views&color=0e75b6&style=flat" alt="zanyar3" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zanyar3" alt="zanyar3" /></a> </p>
 
 <br />
 
