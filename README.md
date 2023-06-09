@@ -5,13 +5,16 @@
 
 <br />
 
-- 🌱 I’m currently learning **.NET MAUI**
+🌱 I’m currently learning **.NET Core with AI**.
 
-- 👨‍💻 I’m currently working on SAP integration
+👨‍💻 I’m currently working on SAP B1 integration.
 
-- 💬 Ask me about **C#, .NET and SignalR**
+🌐 I use **Vue.js** and **React.js** for frontend development.
 
-- 📫 How to reach me **[zanyar_krd](https://twitter.com/zanyar_krd) on Twitter**
+💬 Ask me about **C#, .NET, SignalR, and MS SQL Server**.
+
+📫 You can reach me on Twitter: **[zanyar_krd](https://twitter.com/zanyar_krd)**.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
