@@ -21,7 +21,9 @@
 <a href="https://twitter.com/zanyar_krd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zanyar_krd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zanyar-jalal-773033220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zanyar-jalal-773033220" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/zanyar-j-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zanyar-j-ahmed" height="30" width="40" /></a>
+<a href="https://dev.to/zanyar3" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" alt="devdotto" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7314a0b1d1f099ca9b6b94c2bd498c7d986e1e654a5b22fa22b80dab0be89b02/68747470733a2f2f65766572796461792e636f6465732f77702d636f6e74656e742f75706c6f6164732f323031392f31322f4272616e64426c617a6f725f6e6f68616c6f5f31303030782e706e67"><img src="https://camo.githubusercontent.com/7314a0b1d1f099ca9b6b94c2bd498c7d986e1e654a5b22fa22b80dab0be89b02/68747470733a2f2f65766572796461792e636f6465732f77702d636f6e74656e742f75706c6f6164732f323031392f31322f4272616e64426c617a6f725f6e6f68616c6f5f31303030782e706e67" alt="blazor" width="40" height="40" data-canonical-src="https://everyday.codes/wp-content/uploads/2019/12/BrandBlazor_nohalo_1000x.png" style="max-width: 100%;"></a> 
