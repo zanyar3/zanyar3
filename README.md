@@ -22,6 +22,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zanyar-jalal-773033220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zanyar-jalal-773033220" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/zanyar-j-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zanyar-j-ahmed" height="30" width="40" /></a>
 <a href="https://dev.to/zanyar3" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="devdotto" height="30" width="40" /></a>
+<a href="https://medium.com/@jalalzanyar3" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="devdotto" height="30" width="40" /></a>
 </p>
 
 
