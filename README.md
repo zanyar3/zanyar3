@@ -1,35 +1,78 @@
-![dot-NET-Standard-Logo-Rectangle](https://user-images.githubusercontent.com/45498591/197885267-1f64b1ff-1ff4-4c4a-9351-007ab22471b8.png)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Zanyar Jalal</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=5A3EE0&width=435&lines=Senior+.NET+developer+from+Iraq+in+Sulaymaniyah" alt="Typing SVG" /></a></h3>
+# Zanyar Jalal
 
-<br />
+### Full Stack Developer
 
-🌱 I’m currently learning **.NET Core with AI**.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2E8B57&width=480&lines=Building+reliable+backend+systems;.NET+%7C+Golang+%7C+Rust;SAP+B1+Integration+Specialist" alt="Typing SVG" />
 
-👨‍💻 I’m currently working on SAP B1 integration.
+</div>
 
-🌐 I use **Vue.js** and **React.js** for frontend development.
+<br>
 
-💬 Ask me about **C#, .NET, SignalR, and MS SQL Server**.
+## About Me
 
-📫 You can reach me on Twitter: **[zanyar_krd](https://twitter.com/zanyar_krd)**.
+I'm a full stack developer based in **Sulaymaniyah, Iraq**, focused on designing and building reliable server-side systems, APIs, and integrations, with solid frontend skills to deliver complete products end-to-end. My core stack is **.NET / C#**, and I'm currently expanding into **Golang** and **Rust** to build faster, more efficient services.
 
+- 🔧 Skilled in **SAP Business One (B1) integration**
+- 🤖 Currently working with **AI integration** — building with **LangChain**, **LangGraph**, and **Vector Databases**
+- 🐍 Also work with **Python**, using **FastAPI** for backend services
+- 🌱 Learning **Golang** and **Rust**, and applying AI-assisted workflows to backend development
+- 🗄️ Comfortable across relational databases, real-time communication, and enterprise integration patterns
+- 🌐 Can also ship frontend work in **Vue.js** / **React.js** when a project needs full-stack coverage
+- 📫 Reach me on Twitter: [@zanyar_krd](https://twitter.com/zanyar_krd)
 
-<h3 align="left">Connect with me:</h3>
+<br>
+
+## Backend Toolkit
+
 <p align="left">
-<a href="https://twitter.com/zanyar_krd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zanyar_krd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zanyar-jalal-773033220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zanyar-jalal-773033220" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/zanyar-j-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zanyar-j-ahmed" height="30" width="40" /></a>
-<a href="https://dev.to/zanyar3" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="devdotto" height="30" width="40" /></a>
-<a href="https://medium.com/@jalalzanyar3" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="devdotto" height="30" width="40" /></a>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+<img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="SignalR"/>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
+## AI Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7314a0b1d1f099ca9b6b94c2bd498c7d986e1e654a5b22fa22b80dab0be89b02/68747470733a2f2f65766572796461792e636f6465732f77702d636f6e74656e742f75706c6f6164732f323031392f31322f4272616e64426c617a6f725f6e6f68616c6f5f31303030782e706e67"><img src="https://camo.githubusercontent.com/7314a0b1d1f099ca9b6b94c2bd498c7d986e1e654a5b22fa22b80dab0be89b02/68747470733a2f2f65766572796461792e636f6465732f77702d636f6e74656e742f75706c6f6164732f323031392f31322f4272616e64426c617a6f725f6e6f68616c6f5f31303030782e706e67" alt="blazor" width="40" height="40" data-canonical-src="https://everyday.codes/wp-content/uploads/2019/12/BrandBlazor_nohalo_1000x.png" style="max-width: 100%;"></a> 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/09a074fcc6a4c2c8aa3cfc3538aa29107805e5404c197f3d54df4b4e8d3765fa/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65652f2e4e45545f436f72655f4c6f676f2e7376672f3230343870782d2e4e45545f436f72655f4c6f676f2e7376672e706e67"><img src="https://camo.githubusercontent.com/09a074fcc6a4c2c8aa3cfc3538aa29107805e5404c197f3d54df4b4e8d3765fa/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65652f2e4e45545f436f72655f4c6f676f2e7376672f3230343870782d2e4e45545f436f72655f4c6f676f2e7376672e706e67" alt="dotnetcore" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" style="max-width: 100%;"></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/signalr" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/1200/0*ILbItnzDfSZhZwSn.png" alt="signalR" width="100" height="40"/> </a>
-<a href="https://vuejs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="vue" width="40" height="40"/>  </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="mysql" width="40" height="40"/>  </a> </p>
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
+<img src="https://img.shields.io/badge/Vector%20DB-FF6F00?style=for-the-badge&logo=pinecone&logoColor=white" alt="Vector Database"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+</p>
 
+## Frontend & Tooling
+
+<p align="left">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+<br>
+
+## Connect
+
+<p align="left">
+<a href="https://twitter.com/zanyar_krd" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://www.linkedin.com/in/zanyar-jalal-773033220" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://stackoverflow.com/users/zanyar-j-ahmed" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
+<a href="https://dev.to/zanyar3" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/></a>
+<a href="https://medium.com/@jalalzanyar3" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+</p>
