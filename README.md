@@ -1,23 +1,23 @@
-<div align="center">
-
 # Zanyar Jalal
 
-### Full Stack Developer
+<h3 align="center">Full Stack Developer</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2E8B57&width=480&lines=Building+reliable+backend+systems;.NET+%7C+Golang+%7C+Rust;SAP+B1+Integration+Specialist" alt="Typing SVG" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E8B57&center=true&vCenter=true&width=480&height=45&lines=Building+reliable+backend+systems;.NET+%7C+Golang+%7C+Python;SAP+B1+Integration+Specialist;DevOps+%7C+Docker+%7C+CI%2FCD" alt="Typing SVG" />
+</p>
 
 <br>
 
 ## About Me
 
-I'm a full stack developer based in **Sulaymaniyah, Iraq**, focused on designing and building reliable server-side systems, APIs, and integrations, with solid frontend skills to deliver complete products end-to-end. My core stack is **.NET / C#**, and I'm currently expanding into **Golang** and **Rust** to build faster, more efficient services.
+I'm a full stack developer based in **Sulaymaniyah, Iraq**. I can cover a project end-to-end, but **backend and DevOps are where I enjoy working most** — designing reliable server-side systems, APIs, and integrations, and owning the infrastructure and deployment pipelines that keep them running. My core stack is **.NET / C#**, and I'm currently expanding into **Golang** to build faster, more efficient services.
 
+- 💻 Backend & DevOps focused. Full-stack when needed.
 - 🔧 Skilled in **SAP Business One (B1) integration**
 - 🤖 Currently working with **AI integration** — building with **LangChain**, **LangGraph**, and **Vector Databases**
 - 🐍 Also work with **Python**, using **FastAPI** for backend services
-- 🌱 Learning **Golang** and **Rust**, and applying AI-assisted workflows to backend development
+- 🚀 Handle my own **DevOps**: Docker, CI/CD with GitHub Actions, GHCR, Plesk, and Linux server administration
+- 🌱 Learning **Golang**, and applying AI-assisted workflows to backend development
 - 🗄️ Comfortable across relational databases, real-time communication, and enterprise integration patterns
 - 🌐 Can also ship frontend work in **Vue.js** / **React.js** when a project needs full-stack coverage
 - 📫 Reach me on Twitter: [@zanyar_krd](https://twitter.com/zanyar_krd)
@@ -30,7 +30,6 @@ I'm a full stack developer based in **Sulaymaniyah, Iraq**, focused on designing
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
 <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="SignalR"/>
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -38,6 +37,24 @@ I'm a full stack developer based in **Sulaymaniyah, Iraq**, focused on designing
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+
+## DevOps & Infrastructure
+
+<p align="left">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+<img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/>
+<img src="https://img.shields.io/badge/Plesk-52BBE6?style=for-the-badge&logo=plesk&logoColor=white" alt="Plesk"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/CI%2FCD-EE0000?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+<img src="https://img.shields.io/badge/GHCR-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Container Registry"/>
+<img src="https://img.shields.io/badge/Cron%20Jobs-1F2937?style=for-the-badge&logo=gnubash&logoColor=white" alt="Cron Jobs"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
+<img src="https://img.shields.io/badge/IIS-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="IIS"/>
 </p>
 
 ## AI Skills
